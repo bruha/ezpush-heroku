@@ -1,0 +1,13 @@
+{
+  "name": "EzPush for Chrome",
+  "short_name": "EzPush for Chrome",
+  "icons": [{
+    "src": "images/icon-256x256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }],
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "345259719917",
+  "gcm_user_visible_only": true
+}

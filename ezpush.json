@@ -1,0 +1,9 @@
+{
+    "requestUrl": "https://fe.techonlinecorp.com:4825/gateway/openapi",
+    "vapidKey": "BOH8nTQA5iZhl23+NCzGG9prvOZ5BE0MJXBW+GUkQIvRVTVB32JxmX0V1j6z0r7rnT7+bgi6f2g5fMPpAh5brqM=",
+    "apiKey": "AIzaSyC9HurdJJjd7_GVN_msCrD5VC061Sh9fuY",
+    "appId": "56322937fd8149013cbde905",
+    "hostUrl": "fe.techonlinecorp.com",
+    "hostPort": "443",
+    "hostSSL": true
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EzPush Notifications for Chrome</title>
+    <link rel="manifest" href="manifest.json">
+</head>
+<body>
+    <h1>EzPush Push Notifications Test Site</h1>
+    <p>Try <a href="https://gauntface.github.io/simple-push-demo/">Simple Push Demo</a> to test if your browser support it.</p>
+
+    <script>window.io && window.io.connect || document.write('<script src="./socket.io.js"><\/script>')</script>
+    <script src="./ezpush-client.js"></script>
+    <script>
+        var EzPush = EzPush || {};
+        EzPush.init();
+    </script>
+</body>
+</html>
